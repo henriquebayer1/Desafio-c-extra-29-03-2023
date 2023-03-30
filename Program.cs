@@ -1,7 +1,9 @@
 ﻿Console.WriteLine($"Digite o seu ano de nascimento:");
 int anoDeNascimento = int.Parse(Console.ReadLine());
 
-float idadeAnos = (2023 - anoDeNascimento);
+int anoAtual = int.Parse(DateTime.UtcNow.ToString("yyyy"));
+
+float idadeAnos = (anoAtual - anoDeNascimento);
 
 float idadeSemanas = (idadeAnos * 52);
 
