@@ -1,0 +1,15 @@
+C:\Users\45922978810\Desktop\Desafio-backend-extra\bin\Debug\net7.0\Desafio-backend-extra.exe
+C:\Users\45922978810\Desktop\Desafio-backend-extra\bin\Debug\net7.0\Desafio-backend-extra.deps.json
+C:\Users\45922978810\Desktop\Desafio-backend-extra\bin\Debug\net7.0\Desafio-backend-extra.runtimeconfig.json
+C:\Users\45922978810\Desktop\Desafio-backend-extra\bin\Debug\net7.0\Desafio-backend-extra.dll
+C:\Users\45922978810\Desktop\Desafio-backend-extra\bin\Debug\net7.0\Desafio-backend-extra.pdb
+C:\Users\45922978810\Desktop\Desafio-backend-extra\obj\Debug\net7.0\Desafio-backend-extra.csproj.AssemblyReference.cache
+C:\Users\45922978810\Desktop\Desafio-backend-extra\obj\Debug\net7.0\Desafio-backend-extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45922978810\Desktop\Desafio-backend-extra\obj\Debug\net7.0\Desafio-backend-extra.AssemblyInfoInputs.cache
+C:\Users\45922978810\Desktop\Desafio-backend-extra\obj\Debug\net7.0\Desafio-backend-extra.AssemblyInfo.cs
+C:\Users\45922978810\Desktop\Desafio-backend-extra\obj\Debug\net7.0\Desafio-backend-extra.csproj.CoreCompileInputs.cache
+C:\Users\45922978810\Desktop\Desafio-backend-extra\obj\Debug\net7.0\Desafio-backend-extra.dll
+C:\Users\45922978810\Desktop\Desafio-backend-extra\obj\Debug\net7.0\refint\Desafio-backend-extra.dll
+C:\Users\45922978810\Desktop\Desafio-backend-extra\obj\Debug\net7.0\Desafio-backend-extra.pdb
+C:\Users\45922978810\Desktop\Desafio-backend-extra\obj\Debug\net7.0\Desafio-backend-extra.genruntimeconfig.cache
+C:\Users\45922978810\Desktop\Desafio-backend-extra\obj\Debug\net7.0\ref\Desafio-backend-extra.dll
